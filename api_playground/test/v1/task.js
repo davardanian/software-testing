@@ -4,7 +4,7 @@ let server = require("../../index");
 let request = require("supertest");
 
 
-//Assertion Style BDD
+//Assertion Style / BDD
 chai.should();
 
 chai.use(chaiHttp);
