@@ -1,4 +1,4 @@
-# API Playground
+# API Playground (HW 3)
 
 This is a collection of small APIs created with Node.JS + Express and using testing frameworks such as **mocha**, **chai**, **supertest**, and **c8** to implement unit tests. TDD was implemented, meaning functions were created based on the unit test specifications.
 
