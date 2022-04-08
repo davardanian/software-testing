@@ -4,7 +4,7 @@ This is a collection of small APIs created with Node.JS + Express and using test
 
 ## How to run
 
-Head to the **api_playground** folder and run.
+Run
 
 ```bash
 npm install
