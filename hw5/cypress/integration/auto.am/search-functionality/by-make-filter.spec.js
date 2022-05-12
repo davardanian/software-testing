@@ -10,7 +10,7 @@ Cypress.on('uncaught:exception', (err, runnable) => {
     return false
 })
 
-describe('Search bar Functionality', () => {
+describe('Search bar Functionality / Test car make filter', () => {
 
 
     beforeEach(()=>{
