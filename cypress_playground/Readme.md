@@ -1,4 +1,4 @@
-# Cypress Playground (HW 4)
+# Cypress Playground (HW 3.1 :D)
 
 This is a small example of cypress testing framework capabilities
 
