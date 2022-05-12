@@ -1,4 +1,4 @@
-# Cypress with docker (HW 5)
+# Cypress with docker (HW 3.2 && 3.3)
 
 Docker compose is used to run concurrent tests in three different browsers (firefox, electron, chrome)
 
